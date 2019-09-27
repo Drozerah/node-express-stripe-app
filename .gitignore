@@ -1,0 +1,7 @@
+# Ignored files
+
+docs.md
+
+#Ignored directories
+
+node_modules

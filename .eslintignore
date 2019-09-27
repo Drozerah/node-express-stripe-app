@@ -1,0 +1,5 @@
+# Ignored folders with all files inside
+/bin/*
+/node_modules/*
+
+# Ignore files
